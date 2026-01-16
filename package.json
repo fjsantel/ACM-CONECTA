@@ -1,18 +1,15 @@
 {
-  "name": "acm-conecta-clean",
+  "name": "acm-conecta",
   "version": "1.0.0",
-  "main": "historias-cards-carousel.js",
+  "description": "Sitio web ACM Conecta - Gestión del Agua para el Maule",
+  "main": "index.html",
   "scripts": {
-    "dev": "tinacms dev -c \"npx http-server -p 8080\"",
-    "build": "tinacms build",
     "serve": "npx http-server -p 8080"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjsantel/ACM-CONECTA.git"
+  },
   "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@tinacms/cli": "^2.1.1",
-    "tinacms": "^3.3.1"
-  }
+  "license": "ISC"
 }

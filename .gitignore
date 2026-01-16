@@ -1,7 +1,5 @@
-node_modules/
 .DS_Store
 *.log
 .env
 .env.local
-tina/__generated__/
-.tina-lock
+node_modules/
